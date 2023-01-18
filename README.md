@@ -1,1 +1,1 @@
-# Estudo-Git-Github
+This repository is for study GIT & Github commands.
